@@ -2,3 +2,6 @@ header{
     background-color: #EFb684;
     color: white;
 }
+.cabecalho-imagem{
+  width: min-content 20%;
+}
